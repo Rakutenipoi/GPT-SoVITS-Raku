@@ -24,6 +24,10 @@ A Powerful Few-shot Voice Conversion and Text-to-Speech WebUI.<br><br>
 
 ---
 
+## Overview
+
+GPT-SoVITS-Raku aims to deliver a high-quality and emotionally expressive text-to-speech (TTS) model. It empowers the system with the ability to recognize emotional cues in text and generate corresponding speech with appropriate emotional expression. The project is built upon the SoVITS architecture.
+
 ## Features:
 
 1. **Zero-shot TTS:** Input a 5-second vocal sample and experience instant text-to-speech conversion.
